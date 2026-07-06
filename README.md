@@ -1,6 +1,6 @@
 # llanquihue-tourS8
 
-Proyecto: Servicios turísticos de la empresa Llanquihue Tour; actividad correspondiente a la semana 8, aplicación de herencia, sobrescritura y polimorfismo.
+Proyecto: Servicios turísticos de la empresa Llanquihue Tour; actividad correspondiente a la semana 7 aplicación de herencia, sobrescritura y polimorfismo.
 El proyecto busca representar distintos servicios turísticos, implementando una jerarquía de clases, permitiendo administrar rutas gastronómicas, paseos lacustres y excursiones culturales.
 
 Estructura:
